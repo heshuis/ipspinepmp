@@ -7,4 +7,4 @@ To deploy the iPSpine PMP
 
 1 - Install Flowable following the guideline provided in this link: https://www.flowable.com/open-source/docs/bpmn/ch13-Applications.  
 
-2 - Dowload the iPSpine app provided in the link below and import it to Flowable.
+2 - Dowload the iPSpine app (zip file) provided in this repository and import it to Flowable.
